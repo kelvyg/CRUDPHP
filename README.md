@@ -28,12 +28,17 @@ O projeto passou pelas etapas de modelagem de dados, para garantir um bom funcio
 3. **Modelo Físico**: Implementação concreta do banco de dados no MySQL, com a criação das tabelas e índices necessários para otimizar a performance nas consultas.
 
 ## IMAGENS DO SISTEMA
-<h2>Tela Listagem</h2>
+<h2 align='center'>Tela Listagem</h2>
 
 ![img01](https://github.com/user-attachments/assets/ecfd2fcb-3f68-4206-bf0d-22d9c292a105)
 
-<h2>Tela Cadastro</h2>
+<h2 align='center'>Tela Cadastro Marca</h2>
 
 ![img02](https://github.com/user-attachments/assets/a2603c49-d8b5-4704-a7e4-f55f6d706b72)
+
+<h2 align='center'>Tela Cadastro Modelo</h2>
+
+![img03](https://github.com/user-attachments/assets/7e2a6a61-1149-40c0-8cc5-d92b7c65ff6f)
+
 
 
